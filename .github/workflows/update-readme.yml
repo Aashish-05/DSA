@@ -1,0 +1,169 @@
+name: Update DSA README
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate README
+        shell: bash
+        run: |
+
+          echo "# 🚀 DSA Solutions" > README.md
+          echo "" >> README.md
+
+          echo "A collection of Data Structures and Algorithms solutions in C++." >> README.md
+          echo "" >> README.md
+
+          # --------------------------------------------------
+          # Count problems
+          # --------------------------------------------------
+
+          TOTAL=0
+
+          for TOPIC in */; do
+
+            TOPIC="${TOPIC%/}"
+
+            # Ignore hidden folders
+            if [[ "$TOPIC" == .* ]]; then
+              continue
+            fi
+
+            # Count .cpp files directly inside topic
+            DIRECT_FILES=$(find "$TOPIC" -maxdepth 1 -type f -name "*.cpp" | wc -l)
+
+            # Count LeetHub problem folders
+            PROBLEM_FOLDERS=$(find "$TOPIC" -mindepth 1 -maxdepth 1 -type d | wc -l)
+
+            COUNT=$((DIRECT_FILES + PROBLEM_FOLDERS))
+
+            TOTAL=$((TOTAL + COUNT))
+
+          done
+
+          echo "## 📊 Progress" >> README.md
+          echo "" >> README.md
+          echo "**Total Problems:** $TOTAL" >> README.md
+          echo "" >> README.md
+
+          # --------------------------------------------------
+          # Topic table
+          # --------------------------------------------------
+
+          echo "## 📚 Topics" >> README.md
+          echo "" >> README.md
+
+          echo "| Topic | Problems |" >> README.md
+          echo "|---|---:|" >> README.md
+
+          for TOPIC in */; do
+
+            TOPIC="${TOPIC%/}"
+
+            if [[ "$TOPIC" == .* ]]; then
+              continue
+            fi
+
+            DIRECT_FILES=$(find "$TOPIC" -maxdepth 1 -type f -name "*.cpp" | wc -l)
+            PROBLEM_FOLDERS=$(find "$TOPIC" -mindepth 1 -maxdepth 1 -type d | wc -l)
+
+            COUNT=$((DIRECT_FILES + PROBLEM_FOLDERS))
+
+            if [ "$COUNT" -gt 0 ]; then
+              echo "| [$TOPIC](./$TOPIC) | $COUNT |" >> README.md
+            fi
+
+          done
+
+          echo "" >> README.md
+
+          # --------------------------------------------------
+          # Problem list topic-wise
+          # --------------------------------------------------
+
+          echo "## 📝 Problems" >> README.md
+          echo "" >> README.md
+
+          for TOPIC in */; do
+
+            TOPIC="${TOPIC%/}"
+
+            if [[ "$TOPIC" == .* ]]; then
+              continue
+            fi
+
+            DIRECT_FILES=$(find "$TOPIC" -maxdepth 1 -type f -name "*.cpp" | wc -l)
+            PROBLEM_FOLDERS=$(find "$TOPIC" -mindepth 1 -maxdepth 1 -type d | wc -l)
+
+            COUNT=$((DIRECT_FILES + PROBLEM_FOLDERS))
+
+            if [ "$COUNT" -eq 0 ]; then
+              continue
+            fi
+
+            echo "### $TOPIC" >> README.md
+            echo "" >> README.md
+
+            # LeetHub folders
+            find "$TOPIC" -mindepth 1 -maxdepth 1 -type d | sort | while read DIR; do
+
+              NAME=$(basename "$DIR")
+
+              DISPLAY_NAME=$(echo "$NAME" | sed -E 's/^[0-9]+-//; s/-/ /g')
+
+              DISPLAY_NAME=$(echo "$DISPLAY_NAME" | sed 's/\b\(.\)/\u\1/g')
+
+              echo "- [$DISPLAY_NAME](./$DIR)" >> README.md
+
+            done
+
+            # Existing direct cpp files
+            find "$TOPIC" -maxdepth 1 -type f -name "*.cpp" | sort | while read FILE; do
+
+              NAME=$(basename "$FILE" .cpp)
+
+              DISPLAY_NAME=$(echo "$NAME" | sed 's/_/ /g')
+
+              echo "- [$DISPLAY_NAME](./$FILE)" >> README.md
+
+            done
+
+            echo "" >> README.md
+
+          done
+
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "⭐ Built while preparing for coding interviews." >> README.md
+
+      - name: Commit README
+        shell: bash
+        run: |
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "README is already up to date."
+            exit 0
+          fi
+
+          git commit -m "Update DSA README"
+
+          git push
