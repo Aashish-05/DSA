@@ -25,127 +25,137 @@ jobs:
 
           echo "🔍 Searching for LeetHub problem folders..."
 
-          # Topic priority.
-          # If a problem has multiple topics, the first matching
-          # topic below will be used.
-          declare -A TOPICS=(
-            [dynamic-programming]="DP"
-            [backtracking]="Backtracking"
-            [recursion]="Recursion"
-            [graph]="Graphs"
-            [tree]="Trees"
-            [linked-list]="LinkedList"
-            [array]="Arrays"
-            [string]="Strings"
-            [binary-search]="BinarySearch"
-            [greedy]="Greedy"
-            [stack]="Stack"
-            [queue]="Queue"
-            [hash-table]="HashTable"
-            [heap]="Heap"
-            [math]="Math"
-            [sorting]="Sorting"
-            [two-pointers]="TwoPointers"
-            [sliding-window]="SlidingWindow"
-          )
+          # Fixed topic priority.
+          # First matching topic wins.
+          get_topic_folder() {
+            local tags="$1"
 
-          # Only process folders that look like LeetHub folders:
-          # 0001-two-sum
-          # 0047-permutations-ii
-          # 0123-best-time-to-buy-and-sell-stock-iii
+            if echo "$tags" | grep -qi '"dynamic-programming"'; then
+              echo "DP"
+            elif echo "$tags" | grep -qi '"backtracking"'; then
+              echo "Backtracking"
+            elif echo "$tags" | grep -qi '"recursion"'; then
+              echo "Recursion"
+            elif echo "$tags" | grep -qi '"graph"'; then
+              echo "Graphs"
+            elif echo "$tags" | grep -qi '"tree"'; then
+              echo "Trees"
+            elif echo "$tags" | grep -qi '"linked-list"'; then
+              echo "LinkedList"
+            elif echo "$tags" | grep -qi '"array"'; then
+              echo "Arrays"
+            elif echo "$tags" | grep -qi '"string"'; then
+              echo "Strings"
+            elif echo "$tags" | grep -qi '"binary-search"'; then
+              echo "BinarySearch"
+            elif echo "$tags" | grep -qi '"greedy"'; then
+              echo "Greedy"
+            elif echo "$tags" | grep -qi '"stack"'; then
+              echo "Stack"
+            elif echo "$tags" | grep -qi '"queue"'; then
+              echo "Queue"
+            elif echo "$tags" | grep -qi '"hash-table"'; then
+              echo "HashTable"
+            elif echo "$tags" | grep -qi '"heap"'; then
+              echo "Heap"
+            elif echo "$tags" | grep -qi '"math"'; then
+              echo "Math"
+            elif echo "$tags" | grep -qi '"sorting"'; then
+              echo "Sorting"
+            elif echo "$tags" | grep -qi '"two-pointers"'; then
+              echo "TwoPointers"
+            elif echo "$tags" | grep -qi '"sliding-window"'; then
+              echo "SlidingWindow"
+            else
+              echo ""
+            fi
+          }
+
           for DIR in */; do
 
             DIR="${DIR%/}"
 
-            if [[ "$DIR" =~ ^[0-9]{4}- ]]; then
-
-              echo ""
-              echo "========================================"
-              echo "📁 Found: $DIR"
-              echo "========================================"
-
-              # Extract LeetCode slug.
-              SLUG=$(echo "$DIR" | sed -E 's/^[0-9]{4}-//')
-
-              echo "🔎 LeetCode slug: $SLUG"
-
-              # Get LeetCode topic information.
-              RESPONSE=$(curl -s \
-                -A "Mozilla/5.0" \
-                -H "Content-Type: application/json" \
-                --data "{\"query\":\"query questionData(\\$titleSlug: String!) { question(titleSlug: \\$titleSlug) { questionFrontendId topicTags { name slug } } }\",\"variables\":{\"titleSlug\":\"$SLUG\"}}" \
-                https://leetcode.com/graphql/)
-
-              # Check whether LeetCode returned a valid question.
-              QUESTION=$(echo "$RESPONSE" | jq -r '.data.question // empty')
-
-              if [[ -z "$QUESTION" ]]; then
-                echo "⚠️ Could not find LeetCode problem for $SLUG"
-                echo "Skipping..."
-                continue
-              fi
-
-              # Get topic slugs.
-              TAGS=$(echo "$RESPONSE" | jq -r '.data.question.topicTags[].slug')
-
-              echo "🏷️ Topics:"
-              echo "$TAGS"
-
-              TARGET=""
-
-              # Find first matching topic based on priority.
-              for TAG in "${!TOPICS[@]}"; do
-                if echo "$TAGS" | grep -qx "$TAG"; then
-                  TARGET="${TOPICS[$TAG]}"
-                  break
-                fi
-              done
-
-              if [[ -z "$TARGET" ]]; then
-                echo "⚠️ No mapped topic found."
-                echo "Leaving $DIR where it is."
-                continue
-              fi
-
-              echo "📌 Target folder: $TARGET"
-
-              # Create topic folder if necessary.
-              mkdir -p "$TARGET"
-
-              # Don't move if already inside a topic folder.
-              if [[ "$DIR" == "$TARGET/"* ]]; then
-                echo "Already organized."
-                continue
-              fi
-
-              # Avoid overwriting an existing solution.
-              if [[ -e "$TARGET/$DIR" ]]; then
-                echo "⚠️ $TARGET/$DIR already exists."
-                echo "Skipping to avoid overwriting."
-                continue
-              fi
-
-              echo "🚚 Moving:"
-              echo "   $DIR"
-              echo "   → $TARGET/$DIR"
-
-              git mv "$DIR" "$TARGET/$DIR"
-
+            # Only process LeetHub folders such as:
+            # 0001-two-sum
+            # 0047-permutations-ii
+            if [[ ! "$DIR" =~ ^[0-9]{4}- ]]; then
+              continue
             fi
+
+            echo ""
+            echo "======================================"
+            echo "📁 Found: $DIR"
+            echo "======================================"
+
+            SLUG=$(echo "$DIR" | sed -E 's/^[0-9]{4}-//')
+
+            echo "🔎 Slug: $SLUG"
+
+            # Public LeetCode API
+            RESPONSE=$(curl -fsSL \
+              --retry 3 \
+              --retry-delay 2 \
+              "https://leetcode-api-pied.vercel.app/problem/$SLUG")
+
+            echo "✅ API response received"
+
+            # Make sure response is valid JSON
+            echo "$RESPONSE" | jq empty
+
+            TAGS=$(echo "$RESPONSE" | jq -c '
+              if .topicTags then .topicTags
+              elif .data.topicTags then .data.topicTags
+              elif .data.question.topicTags then .data.question.topicTags
+              else []
+              end
+            ')
+
+            echo "🏷️ Topics:"
+            echo "$TAGS"
+
+            TARGET=$(get_topic_folder "$TAGS")
+
+            if [[ -z "$TARGET" ]]; then
+              echo "⚠️ No mapped topic found."
+              echo "Leaving $DIR where it is."
+              continue
+            fi
+
+            echo "📌 Target: $TARGET"
+
+            mkdir -p "$TARGET"
+
+            if [[ "$DIR" == "$TARGET/"* ]]; then
+              echo "✅ Already organized."
+              continue
+            fi
+
+            if [[ -e "$TARGET/$DIR" ]]; then
+              echo "⚠️ Destination already exists."
+              echo "Skipping to avoid overwrite."
+              continue
+            fi
+
+            echo "🚚 Moving:"
+            echo "   $DIR"
+            echo "   → $TARGET/$DIR"
+
+            git mv "$DIR" "$TARGET/$DIR"
+
           done
 
       - name: Commit organized folders
         shell: bash
         run: |
-          if git diff --cached --quiet && git diff --quiet; then
+          git add -A
+
+          if git diff --cached --quiet; then
             echo "✅ Nothing to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add -A
 
           git commit -m "Organize LeetCode solutions by topic"
 
