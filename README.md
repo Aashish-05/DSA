@@ -4,17 +4,22 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 8
+**Total Problems:** 9
 
 ## 📚 Topics
 
 | Topic | Problems |
 |---|---:|
+| [0031-next-permutation](./0031-next-permutation) | 1 |
 | [3871-count-commas-in-range-ii](./3871-count-commas-in-range-ii) | 1 |
 | [Backtracking](./Backtracking) | 1 |
 | [DP](./DP) | 6 |
 
 ## 📝 Problems
+
+### 0031-next-permutation
+
+- [0031-next-permutation](./0031-next-permutation/0031-next-permutation.cpp)
 
 ### 3871-count-commas-in-range-ii
 
@@ -36,15 +41,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0031-next-permutation](https://github.com/Aashish-05/DSA/tree/master/0031-next-permutation) |
-## Two Pointers
-|  |
-| ------- |
-| [0031-next-permutation](https://github.com/Aashish-05/DSA/tree/master/0031-next-permutation) |
-<!---LeetCode Topics End-->
