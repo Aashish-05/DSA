@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 11
+**Total Problems:** 12
 
 ## 📚 Topics
 
@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0008-string-to-integer-atoi](./0008-string-to-integer-atoi) | 1 |
 | [0031-next-permutation](./0031-next-permutation) | 1 |
 | [0053-maximum-subarray](./0053-maximum-subarray) | 1 |
+| [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree) | 1 |
 | [3871-count-commas-in-range-ii](./3871-count-commas-in-range-ii) | 1 |
 | [Backtracking](./Backtracking) | 1 |
 | [DP](./DP) | 6 |
@@ -30,6 +31,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0053-maximum-subarray
 
 - [0053-maximum-subarray](./0053-maximum-subarray/0053-maximum-subarray.cpp)
+
+### 2265-count-nodes-equal-to-average-of-subtree
+
+- [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.cpp)
 
 ### 3871-count-commas-in-range-ii
 
@@ -51,19 +56,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aashish-05/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Depth-First Search
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aashish-05/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Binary Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aashish-05/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-<!---LeetCode Topics End-->
