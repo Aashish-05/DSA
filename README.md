@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 13
+**Total Problems:** 14
 
 ## 📚 Topics
 
@@ -16,6 +16,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree) | 1 |
 | [3483-unique-3-digit-even-numbers](./3483-unique-3-digit-even-numbers) | 1 |
 | [3871-count-commas-in-range-ii](./3871-count-commas-in-range-ii) | 1 |
+| [4049-count-values-with-equally-spaced-occurrences-ii](./4049-count-values-with-equally-spaced-occurrences-ii) | 1 |
 | [Backtracking](./Backtracking) | 1 |
 | [DP](./DP) | 6 |
 
@@ -44,6 +45,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 3871-count-commas-in-range-ii
 
 - [3871-count-commas-in-range-ii](./3871-count-commas-in-range-ii/3871-count-commas-in-range-ii.cpp)
+
+### 4049-count-values-with-equally-spaced-occurrences-ii
+
+- [4049-count-values-with-equally-spaced-occurrences-ii](./4049-count-values-with-equally-spaced-occurrences-ii/4049-count-values-with-equally-spaced-occurrences-ii.cpp)
 
 ### Backtracking
 
