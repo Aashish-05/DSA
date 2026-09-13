@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 14
+**Total Problems:** 15
 
 ## 📚 Topics
 
@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0008-string-to-integer-atoi](./0008-string-to-integer-atoi) | 1 |
 | [0031-next-permutation](./0031-next-permutation) | 1 |
 | [0053-maximum-subarray](./0053-maximum-subarray) | 1 |
+| [0835-image-overlap](./0835-image-overlap) | 1 |
 | [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree) | 1 |
 | [3483-unique-3-digit-even-numbers](./3483-unique-3-digit-even-numbers) | 1 |
 | [3871-count-commas-in-range-ii](./3871-count-commas-in-range-ii) | 1 |
@@ -33,6 +34,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0053-maximum-subarray
 
 - [0053-maximum-subarray](./0053-maximum-subarray/0053-maximum-subarray.cpp)
+
+### 0835-image-overlap
+
+- [0835-image-overlap](./0835-image-overlap/0835-image-overlap.cpp)
 
 ### 2265-count-nodes-equal-to-average-of-subtree
 
@@ -66,15 +71,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0835-image-overlap](https://github.com/Aashish-05/DSA/tree/master/0835-image-overlap) |
-## Matrix
-|  |
-| ------- |
-| [0835-image-overlap](https://github.com/Aashish-05/DSA/tree/master/0835-image-overlap) |
-<!---LeetCode Topics End-->
