@@ -66,3 +66,15 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Aashish-05/DSA/tree/master/0835-image-overlap) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Aashish-05/DSA/tree/master/0835-image-overlap) |
+<!---LeetCode Topics End-->
