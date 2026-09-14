@@ -71,3 +71,15 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aashish-05/DSA/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aashish-05/DSA/tree/master/0836-rectangle-overlap) |
+<!---LeetCode Topics End-->
