@@ -76,3 +76,23 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashish-05/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## String
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashish-05/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashish-05/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashish-05/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+<!---LeetCode Topics End-->
