@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 16
+**Total Problems:** 17
 
 ## 📚 Topics
 
@@ -16,6 +16,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0835-image-overlap](./0835-image-overlap) | 1 |
 | [0836-rectangle-overlap](./0836-rectangle-overlap) | 1 |
 | [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree) | 1 |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | 1 |
 | [3483-unique-3-digit-even-numbers](./3483-unique-3-digit-even-numbers) | 1 |
 | [3871-count-commas-in-range-ii](./3871-count-commas-in-range-ii) | 1 |
 | [4049-count-values-with-equally-spaced-occurrences-ii](./4049-count-values-with-equally-spaced-occurrences-ii) | 1 |
@@ -48,6 +49,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.cpp)
 
+### 2472-maximum-number-of-non-overlapping-palindrome-substrings
+
+- [2472-maximum-number-of-non-overlapping-palindrome-substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp)
+
 ### 3483-unique-3-digit-even-numbers
 
 - [3483-unique-3-digit-even-numbers](./3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.cpp)
@@ -76,23 +81,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashish-05/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-## String
-|  |
-| ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashish-05/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashish-05/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-## Greedy
-|  |
-| ------- |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aashish-05/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-<!---LeetCode Topics End-->
