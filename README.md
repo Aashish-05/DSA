@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 18
+**Total Problems:** 19
 
 ## 📚 Topics
 
@@ -16,6 +16,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0053-maximum-subarray](./0053-maximum-subarray) | 1 |
 | [0835-image-overlap](./0835-image-overlap) | 1 |
 | [0836-rectangle-overlap](./0836-rectangle-overlap) | 1 |
+| [1401-circle-and-rectangle-overlapping](./1401-circle-and-rectangle-overlapping) | 1 |
 | [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree) | 1 |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | 1 |
 | [3483-unique-3-digit-even-numbers](./3483-unique-3-digit-even-numbers) | 1 |
@@ -49,6 +50,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0836-rectangle-overlap
 
 - [0836-rectangle-overlap](./0836-rectangle-overlap/0836-rectangle-overlap.cpp)
+
+### 1401-circle-and-rectangle-overlapping
+
+- [1401-circle-and-rectangle-overlapping](./1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.cpp)
 
 ### 2265-count-nodes-equal-to-average-of-subtree
 
@@ -86,15 +91,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1401-circle-and-rectangle-overlapping](https://github.com/Aashish-05/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
-## Geometry
-|  |
-| ------- |
-| [1401-circle-and-rectangle-overlapping](https://github.com/Aashish-05/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
-<!---LeetCode Topics End-->
