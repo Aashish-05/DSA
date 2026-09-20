@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 19
+**Total Problems:** 20
 
 ## 📚 Topics
 
@@ -20,6 +20,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree) | 1 |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | 1 |
 | [3483-unique-3-digit-even-numbers](./3483-unique-3-digit-even-numbers) | 1 |
+| [3498-reverse-degree-of-a-string](./3498-reverse-degree-of-a-string) | 1 |
 | [3871-count-commas-in-range-ii](./3871-count-commas-in-range-ii) | 1 |
 | [4049-count-values-with-equally-spaced-occurrences-ii](./4049-count-values-with-equally-spaced-occurrences-ii) | 1 |
 | [Backtracking](./Backtracking) | 1 |
@@ -67,6 +68,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [3483-unique-3-digit-even-numbers](./3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.cpp)
 
+### 3498-reverse-degree-of-a-string
+
+- [3498-reverse-degree-of-a-string](./3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp)
+
 ### 3871-count-commas-in-range-ii
 
 - [3871-count-commas-in-range-ii](./3871-count-commas-in-range-ii/3871-count-commas-in-range-ii.cpp)
@@ -91,15 +96,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3498-reverse-degree-of-a-string](https://github.com/Aashish-05/DSA/tree/master/3498-reverse-degree-of-a-string) |
-## Simulation
-|  |
-| ------- |
-| [3498-reverse-degree-of-a-string](https://github.com/Aashish-05/DSA/tree/master/3498-reverse-degree-of-a-string) |
-<!---LeetCode Topics End-->
