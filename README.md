@@ -101,3 +101,15 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Aashish-05/DSA/tree/master/0875-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Aashish-05/DSA/tree/master/0875-koko-eating-bananas) |
+<!---LeetCode Topics End-->
