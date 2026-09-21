@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 20
+**Total Problems:** 21
 
 ## 📚 Topics
 
@@ -16,6 +16,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0053-maximum-subarray](./0053-maximum-subarray) | 1 |
 | [0835-image-overlap](./0835-image-overlap) | 1 |
 | [0836-rectangle-overlap](./0836-rectangle-overlap) | 1 |
+| [0875-koko-eating-bananas](./0875-koko-eating-bananas) | 1 |
 | [1401-circle-and-rectangle-overlapping](./1401-circle-and-rectangle-overlapping) | 1 |
 | [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree) | 1 |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | 1 |
@@ -51,6 +52,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0836-rectangle-overlap
 
 - [0836-rectangle-overlap](./0836-rectangle-overlap/0836-rectangle-overlap.cpp)
+
+### 0875-koko-eating-bananas
+
+- [0875-koko-eating-bananas](./0875-koko-eating-bananas/0875-koko-eating-bananas.cpp)
 
 ### 1401-circle-and-rectangle-overlapping
 
@@ -96,15 +101,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0875-koko-eating-bananas](https://github.com/Aashish-05/DSA/tree/master/0875-koko-eating-bananas) |
-## Binary Search
-|  |
-| ------- |
-| [0875-koko-eating-bananas](https://github.com/Aashish-05/DSA/tree/master/0875-koko-eating-bananas) |
-<!---LeetCode Topics End-->
