@@ -4,13 +4,14 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 21
+**Total Problems:** 22
 
 ## 📚 Topics
 
 | Topic | Problems |
 |---|---:|
 | [0001-two-sum](./0001-two-sum) | 1 |
+| [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0008-string-to-integer-atoi](./0008-string-to-integer-atoi) | 1 |
 | [0031-next-permutation](./0031-next-permutation) | 1 |
 | [0053-maximum-subarray](./0053-maximum-subarray) | 1 |
@@ -32,6 +33,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0001-two-sum
 
 - [0001-two-sum](./0001-two-sum/0001-two-sum.cpp)
+
+### 0003-longest-substring-without-repeating-characters
+
+- [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp)
 
 ### 0008-string-to-integer-atoi
 
@@ -101,19 +106,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Aashish-05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Aashish-05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Aashish-05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-<!---LeetCode Topics End-->
