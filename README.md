@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 22
+**Total Problems:** 23
 
 ## 📚 Topics
 
@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0001-two-sum](./0001-two-sum) | 1 |
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0008-string-to-integer-atoi](./0008-string-to-integer-atoi) | 1 |
+| [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0031-next-permutation](./0031-next-permutation) | 1 |
 | [0053-maximum-subarray](./0053-maximum-subarray) | 1 |
 | [0835-image-overlap](./0835-image-overlap) | 1 |
@@ -41,6 +42,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0008-string-to-integer-atoi
 
 - [0008-string-to-integer-atoi](./0008-string-to-integer-atoi/0008-string-to-integer-atoi.cpp)
+
+### 0011-container-with-most-water
+
+- [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
 
 ### 0031-next-permutation
 
@@ -106,19 +111,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/Aashish-05/DSA/tree/master/0011-container-with-most-water) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/Aashish-05/DSA/tree/master/0011-container-with-most-water) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/Aashish-05/DSA/tree/master/0011-container-with-most-water) |
-<!---LeetCode Topics End-->
