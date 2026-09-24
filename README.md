@@ -111,3 +111,15 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aashish-05/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aashish-05/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+<!---LeetCode Topics End-->
