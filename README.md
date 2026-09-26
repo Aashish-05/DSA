@@ -116,3 +116,19 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aashish-05/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aashish-05/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aashish-05/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+<!---LeetCode Topics End-->
