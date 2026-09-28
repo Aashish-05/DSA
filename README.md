@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 25
+**Total Problems:** 26
 
 ## 📚 Topics
 
@@ -20,6 +20,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0836-rectangle-overlap](./0836-rectangle-overlap) | 1 |
 | [0875-koko-eating-bananas](./0875-koko-eating-bananas) | 1 |
 | [1401-circle-and-rectangle-overlapping](./1401-circle-and-rectangle-overlapping) | 1 |
+| [1614-maximum-nesting-depth-of-the-parentheses](./1614-maximum-nesting-depth-of-the-parentheses) | 1 |
 | [1807-evaluate-the-bracket-pairs-of-a-string](./1807-evaluate-the-bracket-pairs-of-a-string) | 1 |
 | [2265-count-nodes-equal-to-average-of-subtree](./2265-count-nodes-equal-to-average-of-subtree) | 1 |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | 1 |
@@ -73,6 +74,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [1401-circle-and-rectangle-overlapping](./1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.cpp)
 
+### 1614-maximum-nesting-depth-of-the-parentheses
+
+- [1614-maximum-nesting-depth-of-the-parentheses](./1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp)
+
 ### 1807-evaluate-the-bracket-pairs-of-a-string
 
 - [1807-evaluate-the-bracket-pairs-of-a-string](./1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.cpp)
@@ -121,19 +126,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashish-05/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Stack
-|  |
-| ------- |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashish-05/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashish-05/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-<!---LeetCode Topics End-->
