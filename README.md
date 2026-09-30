@@ -136,3 +136,15 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Aashish-05/DSA/tree/master/0152-maximum-product-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Aashish-05/DSA/tree/master/0152-maximum-product-subarray) |
+<!---LeetCode Topics End-->
