@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 26
+**Total Problems:** 27
 
 ## 📚 Topics
 
@@ -19,6 +19,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0835-image-overlap](./0835-image-overlap) | 1 |
 | [0836-rectangle-overlap](./0836-rectangle-overlap) | 1 |
 | [0875-koko-eating-bananas](./0875-koko-eating-bananas) | 1 |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings) | 1 |
 | [1401-circle-and-rectangle-overlapping](./1401-circle-and-rectangle-overlapping) | 1 |
 | [1614-maximum-nesting-depth-of-the-parentheses](./1614-maximum-nesting-depth-of-the-parentheses) | 1 |
 | [1807-evaluate-the-bracket-pairs-of-a-string](./1807-evaluate-the-bracket-pairs-of-a-string) | 1 |
@@ -69,6 +70,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0875-koko-eating-bananas
 
 - [0875-koko-eating-bananas](./0875-koko-eating-bananas/0875-koko-eating-bananas.cpp)
+
+### 1111-maximum-nesting-depth-of-two-valid-parentheses-strings
+
+- [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp)
 
 ### 1401-circle-and-rectangle-overlapping
 
@@ -126,19 +131,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aashish-05/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-## Stack
-|  |
-| ------- |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aashish-05/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-## Bracket Sequences
-|  |
-| ------- |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aashish-05/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-<!---LeetCode Topics End-->
