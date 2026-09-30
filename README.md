@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 27
+**Total Problems:** 28
 
 ## 📚 Topics
 
@@ -16,6 +16,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0031-next-permutation](./0031-next-permutation) | 1 |
 | [0053-maximum-subarray](./0053-maximum-subarray) | 1 |
+| [0073-set-matrix-zeroes](./0073-set-matrix-zeroes) | 1 |
 | [0835-image-overlap](./0835-image-overlap) | 1 |
 | [0836-rectangle-overlap](./0836-rectangle-overlap) | 1 |
 | [0875-koko-eating-bananas](./0875-koko-eating-bananas) | 1 |
@@ -58,6 +59,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0053-maximum-subarray
 
 - [0053-maximum-subarray](./0053-maximum-subarray/0053-maximum-subarray.cpp)
+
+### 0073-set-matrix-zeroes
+
+- [0073-set-matrix-zeroes](./0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp)
 
 ### 0835-image-overlap
 
@@ -131,19 +136,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Aashish-05/DSA/tree/master/0073-set-matrix-zeroes) |
-## Hash Table
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Aashish-05/DSA/tree/master/0073-set-matrix-zeroes) |
-## Matrix
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Aashish-05/DSA/tree/master/0073-set-matrix-zeroes) |
-<!---LeetCode Topics End-->
