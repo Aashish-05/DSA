@@ -4,12 +4,13 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 30
+**Total Problems:** 31
 
 ## 📚 Topics
 
 | Topic | Problems |
 |---|---:|
+| [0020-valid-parentheses](./0020-valid-parentheses) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [Arrays](./Arrays) | 7 |
 | [Backtracking](./Backtracking) | 1 |
@@ -22,6 +23,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [Strings](./Strings) | 4 |
 
 ## 📝 Problems
+
+### 0020-valid-parentheses
+
+- [0020-valid-parentheses](./0020-valid-parentheses/0020-valid-parentheses.cpp)
 
 ### 0152-maximum-product-subarray
 
