@@ -4,12 +4,13 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 36
+**Total Problems:** 37
 
 ## 📚 Topics
 
 | Topic | Problems |
 |---|---:|
+| [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0018-4sum](./0018-4sum) | 1 |
 | [0020-valid-parentheses](./0020-valid-parentheses) | 1 |
 | [0022-generate-parentheses](./0022-generate-parentheses) | 1 |
@@ -28,6 +29,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [Strings](./Strings) | 4 |
 
 ## 📝 Problems
+
+### 0011-container-with-most-water
+
+- [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
 
 ### 0018-4sum
 
