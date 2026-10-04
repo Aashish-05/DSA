@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 33
+**Total Problems:** 34
 
 ## 📚 Topics
 
@@ -14,6 +14,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0022-generate-parentheses](./0022-generate-parentheses) | 1 |
 | [0032-longest-valid-parentheses](./0032-longest-valid-parentheses) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
+| [0678-valid-parenthesis-string](./0678-valid-parenthesis-string) | 1 |
 | [Arrays](./Arrays) | 7 |
 | [Backtracking](./Backtracking) | 1 |
 | [Binary Search](./Binary Search) | 1 |
@@ -41,6 +42,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0152-maximum-product-subarray
 
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray/0152-maximum-product-subarray.cpp)
+
+### 0678-valid-parenthesis-string
+
+- [0678-valid-parenthesis-string](./0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp)
 
 ### Arrays
 
