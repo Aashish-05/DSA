@@ -4,12 +4,13 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 35
+**Total Problems:** 36
 
 ## 📚 Topics
 
 | Topic | Problems |
 |---|---:|
+| [0018-4sum](./0018-4sum) | 1 |
 | [0020-valid-parentheses](./0020-valid-parentheses) | 1 |
 | [0022-generate-parentheses](./0022-generate-parentheses) | 1 |
 | [0032-longest-valid-parentheses](./0032-longest-valid-parentheses) | 1 |
@@ -27,6 +28,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [Strings](./Strings) | 4 |
 
 ## 📝 Problems
+
+### 0018-4sum
+
+- [0018-4sum](./0018-4sum/0018-4sum.cpp)
 
 ### 0020-valid-parentheses
 
