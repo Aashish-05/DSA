@@ -9,10 +9,10 @@ public:
                 score = 0;
             }
             else{
-                if(s[i-1]=='('){
+                if(s[i-1]=='('){ // '()'
                     score = stk.top()+1;
                 }
-                else{
+                else{  // '(('
                     score = stk.top() + 2*score; 
                 }
                 stk.pop();
