@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 41
+**Total Problems:** 42
 
 ## 📚 Topics
 
@@ -15,6 +15,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0438-find-all-anagrams-in-a-string](./0438-find-all-anagrams-in-a-string) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
+| [3477-fruits-into-baskets-ii](./3477-fruits-into-baskets-ii) | 1 |
 | [Arrays](./Arrays) | 9 |
 | [Backtracking](./Backtracking) | 2 |
 | [Binary Search](./Binary Search) | 1 |
@@ -46,6 +47,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0856-score-of-parentheses
 
 - [0856-score-of-parentheses](./0856-score-of-parentheses/0856-score-of-parentheses.cpp)
+
+### 3477-fruits-into-baskets-ii
+
+- [3477-fruits-into-baskets-ii](./3477-fruits-into-baskets-ii/3477-fruits-into-baskets-ii.cpp)
 
 ### Arrays
 
