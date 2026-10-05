@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 40
+**Total Problems:** 41
 
 ## 📚 Topics
 
@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
+| [0438-find-all-anagrams-in-a-string](./0438-find-all-anagrams-in-a-string) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [Arrays](./Arrays) | 9 |
 | [Backtracking](./Backtracking) | 2 |
@@ -37,6 +38,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0152-maximum-product-subarray
 
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray/0152-maximum-product-subarray.cpp)
+
+### 0438-find-all-anagrams-in-a-string
+
+- [0438-find-all-anagrams-in-a-string](./0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.cpp)
 
 ### 0856-score-of-parentheses
 
