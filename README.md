@@ -4,12 +4,13 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 39
+**Total Problems:** 40
 
 ## 📚 Topics
 
 | Topic | Problems |
 |---|---:|
+| [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
@@ -24,6 +25,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [Strings](./Strings) | 4 |
 
 ## 📝 Problems
+
+### 0003-longest-substring-without-repeating-characters
+
+- [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp)
 
 ### 0011-container-with-most-water
 
