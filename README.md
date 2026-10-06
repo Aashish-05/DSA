@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 42
+**Total Problems:** 44
 
 ## 📚 Topics
 
@@ -13,18 +13,17 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
-| [0438-find-all-anagrams-in-a-string](./0438-find-all-anagrams-in-a-string) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
-| [3477-fruits-into-baskets-ii](./3477-fruits-into-baskets-ii) | 1 |
-| [Arrays](./Arrays) | 9 |
+| [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid) | 1 |
+| [Arrays](./Arrays) | 10 |
 | [Backtracking](./Backtracking) | 2 |
-| [Binary Search](./Binary Search) | 1 |
+| [Binary Search](./Binary Search) | 2 |
 | [DP](./DP) | 11 |
 | [Graphs](./Graphs) | 1 |
 | [Greedy](./Greedy) | 1 |
 | [Math](./Math) | 3 |
 | [Stack](./Stack) | 4 |
-| [Strings](./Strings) | 4 |
+| [Strings](./Strings) | 5 |
 
 ## 📝 Problems
 
@@ -40,17 +39,13 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray/0152-maximum-product-subarray.cpp)
 
-### 0438-find-all-anagrams-in-a-string
-
-- [0438-find-all-anagrams-in-a-string](./0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.cpp)
-
 ### 0856-score-of-parentheses
 
 - [0856-score-of-parentheses](./0856-score-of-parentheses/0856-score-of-parentheses.cpp)
 
-### 3477-fruits-into-baskets-ii
+### 0921-minimum-add-to-make-parentheses-valid
 
-- [3477-fruits-into-baskets-ii](./3477-fruits-into-baskets-ii/3477-fruits-into-baskets-ii.cpp)
+- [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp)
 
 ### Arrays
 
@@ -59,6 +54,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Next Permutation](./Arrays/0031-next-permutation)
 - [Set Matrix Zeroes](./Arrays/0073-set-matrix-zeroes)
 - [Image Overlap](./Arrays/0835-image-overlap)
+- [Fruit Into Baskets](./Arrays/0904-fruit-into-baskets)
 - [Unique 3 Digit Even Numbers](./Arrays/3483-unique-3-digit-even-numbers)
 - [Smallest Index With Digit Sum Equal To Index](./Arrays/3550-smallest-index-with-digit-sum-equal-to-index)
 - [Maximum Valid Pair Sum](./Arrays/3979-maximum-valid-pair-sum)
@@ -72,6 +68,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### Binary Search
 
 - [Koko Eating Bananas](./Binary Search/0875-koko-eating-bananas)
+- [Fruits Into Baskets Ii](./Binary Search/3477-fruits-into-baskets-ii)
 
 ### DP
 
@@ -112,6 +109,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [Longest Substring Without Repeating Characters](./Strings/0003-longest-substring-without-repeating-characters)
 - [String To Integer Atoi](./Strings/0008-string-to-integer-atoi)
+- [Find All Anagrams In A String](./Strings/0438-find-all-anagrams-in-a-string)
 - [Evaluate The Bracket Pairs Of A String](./Strings/1807-evaluate-the-bracket-pairs-of-a-string)
 - [Reverse Degree Of A String](./Strings/3498-reverse-degree-of-a-string)
 
