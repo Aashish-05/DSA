@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 44
+**Total Problems:** 45
 
 ## 📚 Topics
 
@@ -12,6 +12,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 |---|---:|
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
+| [0076-minimum-window-substring](./0076-minimum-window-substring) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid) | 1 |
@@ -34,6 +35,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0011-container-with-most-water
 
 - [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
+
+### 0076-minimum-window-substring
+
+- [0076-minimum-window-substring](./0076-minimum-window-substring/0076-minimum-window-substring.cpp)
 
 ### 0152-maximum-product-subarray
 
