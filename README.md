@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 46
+**Total Problems:** 47
 
 ## 📚 Topics
 
@@ -14,6 +14,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0076-minimum-window-substring](./0076-minimum-window-substring) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
+| [0301-remove-invalid-parentheses](./0301-remove-invalid-parentheses) | 1 |
 | [0424-longest-repeating-character-replacement](./0424-longest-repeating-character-replacement) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid) | 1 |
@@ -44,6 +45,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0152-maximum-product-subarray
 
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray/0152-maximum-product-subarray.cpp)
+
+### 0301-remove-invalid-parentheses
+
+- [0301-remove-invalid-parentheses](./0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp)
 
 ### 0424-longest-repeating-character-replacement
 
