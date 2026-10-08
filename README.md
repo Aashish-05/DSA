@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 47
+**Total Problems:** 48
 
 ## 📚 Topics
 
@@ -18,6 +18,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0424-longest-repeating-character-replacement](./0424-longest-repeating-character-replacement) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid) | 1 |
+| [1021-remove-outermost-parentheses](./1021-remove-outermost-parentheses) | 1 |
 | [Arrays](./Arrays) | 10 |
 | [Backtracking](./Backtracking) | 2 |
 | [Binary Search](./Binary Search) | 2 |
@@ -61,6 +62,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0921-minimum-add-to-make-parentheses-valid
 
 - [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp)
+
+### 1021-remove-outermost-parentheses
+
+- [1021-remove-outermost-parentheses](./1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp)
 
 ### Arrays
 
