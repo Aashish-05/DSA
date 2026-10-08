@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 48
+**Total Problems:** 49
 
 ## 📚 Topics
 
@@ -12,22 +12,18 @@ A collection of Data Structures and Algorithms solutions in C++.
 |---|---:|
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
-| [0076-minimum-window-substring](./0076-minimum-window-substring) | 1 |
+| [0017-letter-combinations-of-a-phone-number](./0017-letter-combinations-of-a-phone-number) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
-| [0301-remove-invalid-parentheses](./0301-remove-invalid-parentheses) | 1 |
-| [0424-longest-repeating-character-replacement](./0424-longest-repeating-character-replacement) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
-| [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid) | 1 |
-| [1021-remove-outermost-parentheses](./1021-remove-outermost-parentheses) | 1 |
 | [Arrays](./Arrays) | 10 |
-| [Backtracking](./Backtracking) | 2 |
+| [Backtracking](./Backtracking) | 3 |
 | [Binary Search](./Binary Search) | 2 |
 | [DP](./DP) | 11 |
 | [Graphs](./Graphs) | 1 |
 | [Greedy](./Greedy) | 1 |
 | [Math](./Math) | 3 |
-| [Stack](./Stack) | 4 |
-| [Strings](./Strings) | 5 |
+| [Stack](./Stack) | 6 |
+| [Strings](./Strings) | 7 |
 
 ## 📝 Problems
 
@@ -39,33 +35,17 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
 
-### 0076-minimum-window-substring
+### 0017-letter-combinations-of-a-phone-number
 
-- [0076-minimum-window-substring](./0076-minimum-window-substring/0076-minimum-window-substring.cpp)
+- [0017-letter-combinations-of-a-phone-number](./0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.cpp)
 
 ### 0152-maximum-product-subarray
 
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray/0152-maximum-product-subarray.cpp)
 
-### 0301-remove-invalid-parentheses
-
-- [0301-remove-invalid-parentheses](./0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp)
-
-### 0424-longest-repeating-character-replacement
-
-- [0424-longest-repeating-character-replacement](./0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.cpp)
-
 ### 0856-score-of-parentheses
 
 - [0856-score-of-parentheses](./0856-score-of-parentheses/0856-score-of-parentheses.cpp)
-
-### 0921-minimum-add-to-make-parentheses-valid
-
-- [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp)
-
-### 1021-remove-outermost-parentheses
-
-- [1021-remove-outermost-parentheses](./1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp)
 
 ### Arrays
 
@@ -84,6 +64,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [Generate Parentheses](./Backtracking/0022-generate-parentheses)
 - [Permutations Ii](./Backtracking/0047-permutations-ii)
+- [Remove Invalid Parentheses](./Backtracking/0301-remove-invalid-parentheses)
 
 ### Binary Search
 
@@ -122,6 +103,8 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [Valid Parentheses](./Stack/0020-valid-parentheses)
 - [Score Of Parentheses](./Stack/0856-score-of-parentheses)
+- [Minimum Add To Make Parentheses Valid](./Stack/0921-minimum-add-to-make-parentheses-valid)
+- [Remove Outermost Parentheses](./Stack/1021-remove-outermost-parentheses)
 - [Maximum Nesting Depth Of Two Valid Parentheses Strings](./Stack/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [Maximum Nesting Depth Of The Parentheses](./Stack/1614-maximum-nesting-depth-of-the-parentheses)
 
@@ -129,6 +112,8 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [Longest Substring Without Repeating Characters](./Strings/0003-longest-substring-without-repeating-characters)
 - [String To Integer Atoi](./Strings/0008-string-to-integer-atoi)
+- [Minimum Window Substring](./Strings/0076-minimum-window-substring)
+- [Longest Repeating Character Replacement](./Strings/0424-longest-repeating-character-replacement)
 - [Find All Anagrams In A String](./Strings/0438-find-all-anagrams-in-a-string)
 - [Evaluate The Bracket Pairs Of A String](./Strings/1807-evaluate-the-bracket-pairs-of-a-string)
 - [Reverse Degree Of A String](./Strings/3498-reverse-degree-of-a-string)
