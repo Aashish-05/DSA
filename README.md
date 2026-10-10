@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 50
+**Total Problems:** 51
 
 ## 📚 Topics
 
@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0017-letter-combinations-of-a-phone-number](./0017-letter-combinations-of-a-phone-number) | 1 |
+| [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](./1541-minimum-insertions-to-balance-a-parentheses-string) | 1 |
@@ -39,6 +40,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0017-letter-combinations-of-a-phone-number
 
 - [0017-letter-combinations-of-a-phone-number](./0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.cpp)
+
+### 0023-merge-k-sorted-lists
+
+- [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp)
 
 ### 0152-maximum-product-subarray
 
@@ -126,27 +131,3 @@ A collection of Data Structures and Algorithms solutions in C++.
 ---
 
 ⭐ Built while preparing for coding interviews.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Aashish-05/DSA/tree/master/0023-merge-k-sorted-lists) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Aashish-05/DSA/tree/master/0023-merge-k-sorted-lists) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Aashish-05/DSA/tree/master/0023-merge-k-sorted-lists) |
-## Merge Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Aashish-05/DSA/tree/master/0023-merge-k-sorted-lists) |
-## Tournament Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Aashish-05/DSA/tree/master/0023-merge-k-sorted-lists) |
-<!---LeetCode Topics End-->
