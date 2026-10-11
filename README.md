@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 53
+**Total Problems:** 54
 
 ## 📚 Topics
 
@@ -12,21 +12,18 @@ A collection of Data Structures and Algorithms solutions in C++.
 |---|---:|
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
-| [0017-letter-combinations-of-a-phone-number](./0017-letter-combinations-of-a-phone-number) | 1 |
-| [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists) | 1 |
+| [0051-n-queens](./0051-n-queens) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](./1541-minimum-insertions-to-balance-a-parentheses-string) | 1 |
-| [2333-minimum-sum-of-squared-difference](./2333-minimum-sum-of-squared-difference) | 1 |
-| [2778-sum-of-squares-of-special-elements](./2778-sum-of-squares-of-special-elements) | 1 |
-| [Arrays](./Arrays) | 10 |
-| [Backtracking](./Backtracking) | 3 |
-| [Binary Search](./Binary Search) | 2 |
+| [Arrays](./Arrays) | 11 |
+| [Backtracking](./Backtracking) | 4 |
+| [Binary Search](./Binary Search) | 3 |
 | [DP](./DP) | 11 |
 | [Graphs](./Graphs) | 1 |
 | [Greedy](./Greedy) | 1 |
+| [LinkedList](./LinkedList) | 1 |
 | [Math](./Math) | 3 |
-| [Stack](./Stack) | 6 |
+| [Stack](./Stack) | 7 |
 | [Strings](./Strings) | 7 |
 
 ## 📝 Problems
@@ -39,13 +36,9 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
 
-### 0017-letter-combinations-of-a-phone-number
+### 0051-n-queens
 
-- [0017-letter-combinations-of-a-phone-number](./0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.cpp)
-
-### 0023-merge-k-sorted-lists
-
-- [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.cpp)
+- [0051-n-queens](./0051-n-queens/0051-n-queens.cpp)
 
 ### 0152-maximum-product-subarray
 
@@ -55,18 +48,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0856-score-of-parentheses](./0856-score-of-parentheses/0856-score-of-parentheses.cpp)
 
-### 1541-minimum-insertions-to-balance-a-parentheses-string
-
-- [1541-minimum-insertions-to-balance-a-parentheses-string](./1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.cpp)
-
-### 2333-minimum-sum-of-squared-difference
-
-- [2333-minimum-sum-of-squared-difference](./2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp)
-
-### 2778-sum-of-squares-of-special-elements
-
-- [2778-sum-of-squares-of-special-elements](./2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp)
-
 ### Arrays
 
 - [Two Sum](./Arrays/0001-two-sum)
@@ -75,6 +56,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Set Matrix Zeroes](./Arrays/0073-set-matrix-zeroes)
 - [Image Overlap](./Arrays/0835-image-overlap)
 - [Fruit Into Baskets](./Arrays/0904-fruit-into-baskets)
+- [Sum Of Squares Of Special Elements](./Arrays/2778-sum-of-squares-of-special-elements)
 - [Unique 3 Digit Even Numbers](./Arrays/3483-unique-3-digit-even-numbers)
 - [Smallest Index With Digit Sum Equal To Index](./Arrays/3550-smallest-index-with-digit-sum-equal-to-index)
 - [Maximum Valid Pair Sum](./Arrays/3979-maximum-valid-pair-sum)
@@ -82,6 +64,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ### Backtracking
 
+- [Letter Combinations Of A Phone Number](./Backtracking/0017-letter-combinations-of-a-phone-number)
 - [Generate Parentheses](./Backtracking/0022-generate-parentheses)
 - [Permutations Ii](./Backtracking/0047-permutations-ii)
 - [Remove Invalid Parentheses](./Backtracking/0301-remove-invalid-parentheses)
@@ -89,6 +72,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### Binary Search
 
 - [Koko Eating Bananas](./Binary Search/0875-koko-eating-bananas)
+- [Minimum Sum Of Squared Difference](./Binary Search/2333-minimum-sum-of-squared-difference)
 - [Fruits Into Baskets Ii](./Binary Search/3477-fruits-into-baskets-ii)
 
 ### DP
@@ -113,6 +97,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [Container With Most Water](./Greedy/0011-container-with-most-water)
 
+### LinkedList
+
+- [Merge K Sorted Lists](./LinkedList/0023-merge-k-sorted-lists)
+
 ### Math
 
 - [Rectangle Overlap](./Math/0836-rectangle-overlap)
@@ -126,6 +114,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Minimum Add To Make Parentheses Valid](./Stack/0921-minimum-add-to-make-parentheses-valid)
 - [Remove Outermost Parentheses](./Stack/1021-remove-outermost-parentheses)
 - [Maximum Nesting Depth Of Two Valid Parentheses Strings](./Stack/1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
+- [Minimum Insertions To Balance A Parentheses String](./Stack/1541-minimum-insertions-to-balance-a-parentheses-string)
 - [Maximum Nesting Depth Of The Parentheses](./Stack/1614-maximum-nesting-depth-of-the-parentheses)
 
 ### Strings
