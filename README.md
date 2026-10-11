@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 54
+**Total Problems:** 55
 
 ## 📚 Topics
 
@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0051-n-queens](./0051-n-queens) | 1 |
+| [0052-n-queens-ii](./0052-n-queens-ii) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [Arrays](./Arrays) | 11 |
@@ -39,6 +40,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0051-n-queens
 
 - [0051-n-queens](./0051-n-queens/0051-n-queens.cpp)
+
+### 0052-n-queens-ii
+
+- [0052-n-queens-ii](./0052-n-queens-ii/0052-n-queens-ii.cpp)
 
 ### 0152-maximum-product-subarray
 
