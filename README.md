@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 51
+**Total Problems:** 52
 
 ## 📚 Topics
 
@@ -17,6 +17,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](./1541-minimum-insertions-to-balance-a-parentheses-string) | 1 |
+| [2778-sum-of-squares-of-special-elements](./2778-sum-of-squares-of-special-elements) | 1 |
 | [Arrays](./Arrays) | 10 |
 | [Backtracking](./Backtracking) | 3 |
 | [Binary Search](./Binary Search) | 2 |
@@ -56,6 +57,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 1541-minimum-insertions-to-balance-a-parentheses-string
 
 - [1541-minimum-insertions-to-balance-a-parentheses-string](./1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.cpp)
+
+### 2778-sum-of-squares-of-special-elements
+
+- [2778-sum-of-squares-of-special-elements](./2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp)
 
 ### Arrays
 
