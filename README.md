@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 57
+**Total Problems:** 58
 
 ## 📚 Topics
 
@@ -16,6 +16,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0037-sudoku-solver](./0037-sudoku-solver) | 1 |
 | [0051-n-queens](./0051-n-queens) | 1 |
 | [0052-n-queens-ii](./0052-n-queens-ii) | 1 |
+| [0060-permutation-sequence](./0060-permutation-sequence) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [Arrays](./Arrays) | 11 |
@@ -54,6 +55,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0052-n-queens-ii
 
 - [0052-n-queens-ii](./0052-n-queens-ii/0052-n-queens-ii.cpp)
+
+### 0060-permutation-sequence
+
+- [0060-permutation-sequence](./0060-permutation-sequence/0060-permutation-sequence.cpp)
 
 ### 0152-maximum-product-subarray
 
