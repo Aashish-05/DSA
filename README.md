@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 56
+**Total Problems:** 57
 
 ## 📚 Topics
 
@@ -12,6 +12,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 |---|---:|
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
+| [0036-valid-sudoku](./0036-valid-sudoku) | 1 |
 | [0037-sudoku-solver](./0037-sudoku-solver) | 1 |
 | [0051-n-queens](./0051-n-queens) | 1 |
 | [0052-n-queens-ii](./0052-n-queens-ii) | 1 |
@@ -37,6 +38,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0011-container-with-most-water
 
 - [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
+
+### 0036-valid-sudoku
+
+- [0036-valid-sudoku](./0036-valid-sudoku/0036-valid-sudoku.cpp)
 
 ### 0037-sudoku-solver
 
