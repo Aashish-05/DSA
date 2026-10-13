@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 58
+**Total Problems:** 59
 
 ## 📚 Topics
 
@@ -17,6 +17,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0051-n-queens](./0051-n-queens) | 1 |
 | [0052-n-queens-ii](./0052-n-queens-ii) | 1 |
 | [0060-permutation-sequence](./0060-permutation-sequence) | 1 |
+| [0070-climbing-stairs](./0070-climbing-stairs) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [Arrays](./Arrays) | 11 |
@@ -59,6 +60,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0060-permutation-sequence
 
 - [0060-permutation-sequence](./0060-permutation-sequence/0060-permutation-sequence.cpp)
+
+### 0070-climbing-stairs
+
+- [0070-climbing-stairs](./0070-climbing-stairs/0070-climbing-stairs.cpp)
 
 ### 0152-maximum-product-subarray
 
