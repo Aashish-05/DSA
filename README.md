@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 59
+**Total Problems:** 60
 
 ## 📚 Topics
 
@@ -12,22 +12,17 @@ A collection of Data Structures and Algorithms solutions in C++.
 |---|---:|
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
-| [0036-valid-sudoku](./0036-valid-sudoku) | 1 |
-| [0037-sudoku-solver](./0037-sudoku-solver) | 1 |
-| [0051-n-queens](./0051-n-queens) | 1 |
-| [0052-n-queens-ii](./0052-n-queens-ii) | 1 |
-| [0060-permutation-sequence](./0060-permutation-sequence) | 1 |
-| [0070-climbing-stairs](./0070-climbing-stairs) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
-| [Arrays](./Arrays) | 11 |
-| [Backtracking](./Backtracking) | 4 |
+| [2913-subarrays-distinct-element-sum-of-squares-i](./2913-subarrays-distinct-element-sum-of-squares-i) | 1 |
+| [Arrays](./Arrays) | 12 |
+| [Backtracking](./Backtracking) | 7 |
 | [Binary Search](./Binary Search) | 3 |
-| [DP](./DP) | 11 |
+| [DP](./DP) | 12 |
 | [Graphs](./Graphs) | 1 |
 | [Greedy](./Greedy) | 1 |
 | [LinkedList](./LinkedList) | 1 |
-| [Math](./Math) | 3 |
+| [Math](./Math) | 4 |
 | [Stack](./Stack) | 7 |
 | [Strings](./Strings) | 7 |
 
@@ -41,30 +36,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
 
-### 0036-valid-sudoku
-
-- [0036-valid-sudoku](./0036-valid-sudoku/0036-valid-sudoku.cpp)
-
-### 0037-sudoku-solver
-
-- [0037-sudoku-solver](./0037-sudoku-solver/0037-sudoku-solver.cpp)
-
-### 0051-n-queens
-
-- [0051-n-queens](./0051-n-queens/0051-n-queens.cpp)
-
-### 0052-n-queens-ii
-
-- [0052-n-queens-ii](./0052-n-queens-ii/0052-n-queens-ii.cpp)
-
-### 0060-permutation-sequence
-
-- [0060-permutation-sequence](./0060-permutation-sequence/0060-permutation-sequence.cpp)
-
-### 0070-climbing-stairs
-
-- [0070-climbing-stairs](./0070-climbing-stairs/0070-climbing-stairs.cpp)
-
 ### 0152-maximum-product-subarray
 
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray/0152-maximum-product-subarray.cpp)
@@ -73,11 +44,16 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0856-score-of-parentheses](./0856-score-of-parentheses/0856-score-of-parentheses.cpp)
 
+### 2913-subarrays-distinct-element-sum-of-squares-i
+
+- [2913-subarrays-distinct-element-sum-of-squares-i](./2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp)
+
 ### Arrays
 
 - [Two Sum](./Arrays/0001-two-sum)
 - [4sum](./Arrays/0018-4sum)
 - [Next Permutation](./Arrays/0031-next-permutation)
+- [Valid Sudoku](./Arrays/0036-valid-sudoku)
 - [Set Matrix Zeroes](./Arrays/0073-set-matrix-zeroes)
 - [Image Overlap](./Arrays/0835-image-overlap)
 - [Fruit Into Baskets](./Arrays/0904-fruit-into-baskets)
@@ -91,7 +67,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [Letter Combinations Of A Phone Number](./Backtracking/0017-letter-combinations-of-a-phone-number)
 - [Generate Parentheses](./Backtracking/0022-generate-parentheses)
+- [Sudoku Solver](./Backtracking/0037-sudoku-solver)
 - [Permutations Ii](./Backtracking/0047-permutations-ii)
+- [N Queens](./Backtracking/0051-n-queens)
+- [N Queens Ii](./Backtracking/0052-n-queens-ii)
 - [Remove Invalid Parentheses](./Backtracking/0301-remove-invalid-parentheses)
 
 ### Binary Search
@@ -104,6 +83,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [Longest Valid Parentheses](./DP/0032-longest-valid-parentheses)
 - [Maximum Subarray](./DP/0053-maximum-subarray)
+- [Climbing Stairs](./DP/0070-climbing-stairs)
 - [Maximum Product Subarray](./DP/0152-maximum-product-subarray)
 - [Valid Parenthesis String](./DP/0678-valid-parenthesis-string)
 - [Maximum Number Of Non Overlapping Palindrome Substrings](./DP/2472-maximum-number-of-non-overlapping-palindrome-substrings)
@@ -128,6 +108,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ### Math
 
+- [Permutation Sequence](./Math/0060-permutation-sequence)
 - [Rectangle Overlap](./Math/0836-rectangle-overlap)
 - [Circle And Rectangle Overlapping](./Math/1401-circle-and-rectangle-overlapping)
 - [Count Commas In Range Ii](./Math/3871-count-commas-in-range-ii)
