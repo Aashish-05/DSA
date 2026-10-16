@@ -4,12 +4,13 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 60
+**Total Problems:** 61
 
 ## 📚 Topics
 
 | Topic | Problems |
 |---|---:|
+| [0001-two-sum](./0001-two-sum) | 1 |
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
@@ -27,6 +28,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [Strings](./Strings) | 7 |
 
 ## 📝 Problems
+
+### 0001-two-sum
+
+- [0001-two-sum](./0001-two-sum/0001-two-sum.cpp)
 
 ### 0003-longest-substring-without-repeating-characters
 
