@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 61
+**Total Problems:** 62
 
 ## 📚 Topics
 
@@ -15,7 +15,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
-| [2913-subarrays-distinct-element-sum-of-squares-i](./2913-subarrays-distinct-element-sum-of-squares-i) | 1 |
+| [3551-minimum-swaps-to-sort-by-digit-sum](./3551-minimum-swaps-to-sort-by-digit-sum) | 1 |
 | [Arrays](./Arrays) | 12 |
 | [Backtracking](./Backtracking) | 7 |
 | [Binary Search](./Binary Search) | 3 |
@@ -26,6 +26,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [Math](./Math) | 4 |
 | [Stack](./Stack) | 7 |
 | [Strings](./Strings) | 7 |
+| [Trees](./Trees) | 1 |
 
 ## 📝 Problems
 
@@ -49,9 +50,9 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0856-score-of-parentheses](./0856-score-of-parentheses/0856-score-of-parentheses.cpp)
 
-### 2913-subarrays-distinct-element-sum-of-squares-i
+### 3551-minimum-swaps-to-sort-by-digit-sum
 
-- [2913-subarrays-distinct-element-sum-of-squares-i](./2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp)
+- [3551-minimum-swaps-to-sort-by-digit-sum](./3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.cpp)
 
 ### Arrays
 
@@ -137,6 +138,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Find All Anagrams In A String](./Strings/0438-find-all-anagrams-in-a-string)
 - [Evaluate The Bracket Pairs Of A String](./Strings/1807-evaluate-the-bracket-pairs-of-a-string)
 - [Reverse Degree Of A String](./Strings/3498-reverse-degree-of-a-string)
+
+### Trees
+
+- [Subarrays Distinct Element Sum Of Squares I](./Trees/2913-subarrays-distinct-element-sum-of-squares-i)
 
 ---
 
