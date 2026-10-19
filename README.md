@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 63
+**Total Problems:** 64
 
 ## 📚 Topics
 
@@ -19,7 +19,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [Arrays](./Arrays) | 13 |
 | [Backtracking](./Backtracking) | 7 |
 | [Binary Search](./Binary Search) | 3 |
-| [DP](./DP) | 12 |
+| [DP](./DP) | 13 |
 | [Graphs](./Graphs) | 1 |
 | [Greedy](./Greedy) | 1 |
 | [LinkedList](./LinkedList) | 1 |
@@ -92,6 +92,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Maximum Subarray](./DP/0053-maximum-subarray)
 - [Climbing Stairs](./DP/0070-climbing-stairs)
 - [Maximum Product Subarray](./DP/0152-maximum-product-subarray)
+- [House Robber](./DP/0198-house-robber)
 - [Valid Parenthesis String](./DP/0678-valid-parenthesis-string)
 - [Maximum Number Of Non Overlapping Palindrome Substrings](./DP/2472-maximum-number-of-non-overlapping-palindrome-substrings)
 - [1 01 Knapsack](./DP/1_01_Knapsack.cpp)
