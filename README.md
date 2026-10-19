@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 62
+**Total Problems:** 63
 
 ## 📚 Topics
 
@@ -14,9 +14,9 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
+| [0198-house-robber](./0198-house-robber) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
-| [3551-minimum-swaps-to-sort-by-digit-sum](./3551-minimum-swaps-to-sort-by-digit-sum) | 1 |
-| [Arrays](./Arrays) | 12 |
+| [Arrays](./Arrays) | 13 |
 | [Backtracking](./Backtracking) | 7 |
 | [Binary Search](./Binary Search) | 3 |
 | [DP](./DP) | 12 |
@@ -46,13 +46,13 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray/0152-maximum-product-subarray.cpp)
 
+### 0198-house-robber
+
+- [0198-house-robber](./0198-house-robber/0198-house-robber.cpp)
+
 ### 0856-score-of-parentheses
 
 - [0856-score-of-parentheses](./0856-score-of-parentheses/0856-score-of-parentheses.cpp)
-
-### 3551-minimum-swaps-to-sort-by-digit-sum
-
-- [3551-minimum-swaps-to-sort-by-digit-sum](./3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.cpp)
 
 ### Arrays
 
@@ -66,6 +66,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Sum Of Squares Of Special Elements](./Arrays/2778-sum-of-squares-of-special-elements)
 - [Unique 3 Digit Even Numbers](./Arrays/3483-unique-3-digit-even-numbers)
 - [Smallest Index With Digit Sum Equal To Index](./Arrays/3550-smallest-index-with-digit-sum-equal-to-index)
+- [Minimum Swaps To Sort By Digit Sum](./Arrays/3551-minimum-swaps-to-sort-by-digit-sum)
 - [Maximum Valid Pair Sum](./Arrays/3979-maximum-valid-pair-sum)
 - [Count Values With Equally Spaced Occurrences Ii](./Arrays/4049-count-values-with-equally-spaced-occurrences-ii)
 
