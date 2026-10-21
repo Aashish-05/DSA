@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 65
+**Total Problems:** 66
 
 ## 📚 Topics
 
@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0001-two-sum](./0001-two-sum) | 1 |
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
+| [0062-unique-paths](./0062-unique-paths) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0198-house-robber](./0198-house-robber) | 1 |
 | [0213-house-robber-ii](./0213-house-robber-ii) | 1 |
@@ -42,6 +43,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0011-container-with-most-water
 
 - [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
+
+### 0062-unique-paths
+
+- [0062-unique-paths](./0062-unique-paths/0062-unique-paths.cpp)
 
 ### 0152-maximum-product-subarray
 
