@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 69
+**Total Problems:** 70
 
 ## 📚 Topics
 
@@ -13,15 +13,14 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0001-two-sum](./0001-two-sum) | 1 |
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
-| [0064-minimum-path-sum](./0064-minimum-path-sum) | 1 |
-| [0120-triangle](./0120-triangle) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0198-house-robber](./0198-house-robber) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
+| [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
 | [Arrays](./Arrays) | 13 |
 | [Backtracking](./Backtracking) | 7 |
 | [Binary Search](./Binary Search) | 3 |
-| [DP](./DP) | 16 |
+| [DP](./DP) | 18 |
 | [Graphs](./Graphs) | 1 |
 | [Greedy](./Greedy) | 1 |
 | [LinkedList](./LinkedList) | 1 |
@@ -44,14 +43,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
 
-### 0064-minimum-path-sum
-
-- [0064-minimum-path-sum](./0064-minimum-path-sum/0064-minimum-path-sum.cpp)
-
-### 0120-triangle
-
-- [0120-triangle](./0120-triangle/0120-triangle.cpp)
-
 ### 0152-maximum-product-subarray
 
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray/0152-maximum-product-subarray.cpp)
@@ -63,6 +54,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0856-score-of-parentheses
 
 - [0856-score-of-parentheses](./0856-score-of-parentheses/0856-score-of-parentheses.cpp)
+
+### 0931-minimum-falling-path-sum
+
+- [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum/0931-minimum-falling-path-sum.cpp)
 
 ### Arrays
 
@@ -102,7 +97,9 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Maximum Subarray](./DP/0053-maximum-subarray)
 - [Unique Paths](./DP/0062-unique-paths)
 - [Unique Paths Ii](./DP/0063-unique-paths-ii)
+- [Minimum Path Sum](./DP/0064-minimum-path-sum)
 - [Climbing Stairs](./DP/0070-climbing-stairs)
+- [Triangle](./DP/0120-triangle)
 - [Maximum Product Subarray](./DP/0152-maximum-product-subarray)
 - [House Robber](./DP/0198-house-robber)
 - [House Robber Ii](./DP/0213-house-robber-ii)
