@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 72
+**Total Problems:** 73
 
 ## 📚 Topics
 
@@ -15,6 +15,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0198-house-robber](./0198-house-robber) | 1 |
+| [0739-daily-temperatures](./0739-daily-temperatures) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
 | [Arrays](./Arrays) | 13 |
@@ -50,6 +51,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0198-house-robber
 
 - [0198-house-robber](./0198-house-robber/0198-house-robber.cpp)
+
+### 0739-daily-temperatures
+
+- [0739-daily-temperatures](./0739-daily-temperatures/0739-daily-temperatures.cpp)
 
 ### 0856-score-of-parentheses
 
