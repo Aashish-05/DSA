@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 70
+**Total Problems:** 71
 
 ## 📚 Topics
 
@@ -17,6 +17,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0198-house-robber](./0198-house-robber) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
+| [3619-count-islands-with-total-value-divisible-by-k](./3619-count-islands-with-total-value-divisible-by-k) | 1 |
 | [Arrays](./Arrays) | 13 |
 | [Backtracking](./Backtracking) | 7 |
 | [Binary Search](./Binary Search) | 3 |
@@ -58,6 +59,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0931-minimum-falling-path-sum
 
 - [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum/0931-minimum-falling-path-sum.cpp)
+
+### 3619-count-islands-with-total-value-divisible-by-k
+
+- [3619-count-islands-with-total-value-divisible-by-k](./3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.cpp)
 
 ### Arrays
 
