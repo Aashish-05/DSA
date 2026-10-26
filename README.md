@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 71
+**Total Problems:** 72
 
 ## 📚 Topics
 
@@ -17,12 +17,11 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0198-house-robber](./0198-house-robber) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
-| [3619-count-islands-with-total-value-divisible-by-k](./3619-count-islands-with-total-value-divisible-by-k) | 1 |
 | [Arrays](./Arrays) | 13 |
 | [Backtracking](./Backtracking) | 7 |
 | [Binary Search](./Binary Search) | 3 |
-| [DP](./DP) | 18 |
-| [Graphs](./Graphs) | 1 |
+| [DP](./DP) | 19 |
+| [Graphs](./Graphs) | 2 |
 | [Greedy](./Greedy) | 1 |
 | [LinkedList](./LinkedList) | 1 |
 | [Math](./Math) | 4 |
@@ -59,10 +58,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0931-minimum-falling-path-sum
 
 - [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum/0931-minimum-falling-path-sum.cpp)
-
-### 3619-count-islands-with-total-value-divisible-by-k
-
-- [3619-count-islands-with-total-value-divisible-by-k](./3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.cpp)
 
 ### Arrays
 
@@ -109,6 +104,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [House Robber](./DP/0198-house-robber)
 - [House Robber Ii](./DP/0213-house-robber-ii)
 - [Valid Parenthesis String](./DP/0678-valid-parenthesis-string)
+- [Minimum Falling Path Sum](./DP/0931-minimum-falling-path-sum)
 - [Maximum Number Of Non Overlapping Palindrome Substrings](./DP/2472-maximum-number-of-non-overlapping-palindrome-substrings)
 - [1 01 Knapsack](./DP/1_01_Knapsack.cpp)
 - [2 01 knapsack Top Down](./DP/2_01_knapsack_Top_Down.cpp)
@@ -120,6 +116,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### Graphs
 
 - [Count Nodes Equal To Average Of Subtree](./Graphs/2265-count-nodes-equal-to-average-of-subtree)
+- [Count Islands With Total Value Divisible By K](./Graphs/3619-count-islands-with-total-value-divisible-by-k)
 
 ### Greedy
 
