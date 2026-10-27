@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 73
+**Total Problems:** 74
 
 ## 📚 Topics
 
@@ -18,6 +18,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0739-daily-temperatures](./0739-daily-temperatures) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
+| [3963-create-grid-with-exactly-one-path](./3963-create-grid-with-exactly-one-path) | 1 |
 | [Arrays](./Arrays) | 13 |
 | [Backtracking](./Backtracking) | 7 |
 | [Binary Search](./Binary Search) | 3 |
@@ -63,6 +64,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0931-minimum-falling-path-sum
 
 - [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum/0931-minimum-falling-path-sum.cpp)
+
+### 3963-create-grid-with-exactly-one-path
+
+- [3963-create-grid-with-exactly-one-path](./3963-create-grid-with-exactly-one-path/3963-create-grid-with-exactly-one-path.cpp)
 
 ### Arrays
 
