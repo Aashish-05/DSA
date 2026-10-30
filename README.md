@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 76
+**Total Problems:** 77
 
 ## 📚 Topics
 
@@ -17,6 +17,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0198-house-robber](./0198-house-robber) | 1 |
 | [0416-partition-equal-subset-sum](./0416-partition-equal-subset-sum) | 1 |
+| [0494-target-sum](./0494-target-sum) | 1 |
 | [0739-daily-temperatures](./0739-daily-temperatures) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
@@ -62,6 +63,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0416-partition-equal-subset-sum
 
 - [0416-partition-equal-subset-sum](./0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.cpp)
+
+### 0494-target-sum
+
+- [0494-target-sum](./0494-target-sum/0494-target-sum.cpp)
 
 ### 0739-daily-temperatures
 
