@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 78
+**Total Problems:** 79
 
 ## 📚 Topics
 
@@ -15,13 +15,13 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0198-house-robber](./0198-house-robber) | 1 |
-| [0322-coin-change](./0322-coin-change) | 1 |
+| [0518-coin-change-ii](./0518-coin-change-ii) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
 | [Arrays](./Arrays) | 13 |
 | [Backtracking](./Backtracking) | 8 |
 | [Binary Search](./Binary Search) | 3 |
-| [DP](./DP) | 21 |
+| [DP](./DP) | 22 |
 | [Graphs](./Graphs) | 2 |
 | [Greedy](./Greedy) | 1 |
 | [LinkedList](./LinkedList) | 1 |
@@ -53,9 +53,9 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0198-house-robber](./0198-house-robber/0198-house-robber.cpp)
 
-### 0322-coin-change
+### 0518-coin-change-ii
 
-- [0322-coin-change](./0322-coin-change/0322-coin-change.cpp)
+- [0518-coin-change-ii](./0518-coin-change-ii/0518-coin-change-ii.cpp)
 
 ### 0856-score-of-parentheses
 
@@ -111,6 +111,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Maximum Product Subarray](./DP/0152-maximum-product-subarray)
 - [House Robber](./DP/0198-house-robber)
 - [House Robber Ii](./DP/0213-house-robber-ii)
+- [Coin Change](./DP/0322-coin-change)
 - [Partition Equal Subset Sum](./DP/0416-partition-equal-subset-sum)
 - [Valid Parenthesis String](./DP/0678-valid-parenthesis-string)
 - [Minimum Falling Path Sum](./DP/0931-minimum-falling-path-sum)
