@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 77
+**Total Problems:** 78
 
 ## 📚 Topics
 
@@ -13,24 +13,21 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0001-two-sum](./0001-two-sum) | 1 |
 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters) | 1 |
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
-| [0055-jump-game](./0055-jump-game) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0198-house-robber](./0198-house-robber) | 1 |
-| [0416-partition-equal-subset-sum](./0416-partition-equal-subset-sum) | 1 |
-| [0494-target-sum](./0494-target-sum) | 1 |
-| [0739-daily-temperatures](./0739-daily-temperatures) | 1 |
+| [0322-coin-change](./0322-coin-change) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
-| [3963-create-grid-with-exactly-one-path](./3963-create-grid-with-exactly-one-path) | 1 |
 | [Arrays](./Arrays) | 13 |
-| [Backtracking](./Backtracking) | 7 |
+| [Backtracking](./Backtracking) | 8 |
 | [Binary Search](./Binary Search) | 3 |
-| [DP](./DP) | 19 |
+| [DP](./DP) | 21 |
 | [Graphs](./Graphs) | 2 |
 | [Greedy](./Greedy) | 1 |
 | [LinkedList](./LinkedList) | 1 |
 | [Math](./Math) | 4 |
-| [Stack](./Stack) | 7 |
+| [Miscellaneous](./Miscellaneous) | 1 |
+| [Stack](./Stack) | 8 |
 | [Strings](./Strings) | 7 |
 | [Trees](./Trees) | 1 |
 
@@ -48,10 +45,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0011-container-with-most-water](./0011-container-with-most-water/0011-container-with-most-water.cpp)
 
-### 0055-jump-game
-
-- [0055-jump-game](./0055-jump-game/0055-jump-game.cpp)
-
 ### 0152-maximum-product-subarray
 
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray/0152-maximum-product-subarray.cpp)
@@ -60,17 +53,9 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0198-house-robber](./0198-house-robber/0198-house-robber.cpp)
 
-### 0416-partition-equal-subset-sum
+### 0322-coin-change
 
-- [0416-partition-equal-subset-sum](./0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.cpp)
-
-### 0494-target-sum
-
-- [0494-target-sum](./0494-target-sum/0494-target-sum.cpp)
-
-### 0739-daily-temperatures
-
-- [0739-daily-temperatures](./0739-daily-temperatures/0739-daily-temperatures.cpp)
+- [0322-coin-change](./0322-coin-change/0322-coin-change.cpp)
 
 ### 0856-score-of-parentheses
 
@@ -79,10 +64,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0931-minimum-falling-path-sum
 
 - [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum/0931-minimum-falling-path-sum.cpp)
-
-### 3963-create-grid-with-exactly-one-path
-
-- [3963-create-grid-with-exactly-one-path](./3963-create-grid-with-exactly-one-path/3963-create-grid-with-exactly-one-path.cpp)
 
 ### Arrays
 
@@ -109,6 +90,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [N Queens](./Backtracking/0051-n-queens)
 - [N Queens Ii](./Backtracking/0052-n-queens-ii)
 - [Remove Invalid Parentheses](./Backtracking/0301-remove-invalid-parentheses)
+- [Target Sum](./Backtracking/0494-target-sum)
 
 ### Binary Search
 
@@ -120,6 +102,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [Longest Valid Parentheses](./DP/0032-longest-valid-parentheses)
 - [Maximum Subarray](./DP/0053-maximum-subarray)
+- [Jump Game](./DP/0055-jump-game)
 - [Unique Paths](./DP/0062-unique-paths)
 - [Unique Paths Ii](./DP/0063-unique-paths-ii)
 - [Minimum Path Sum](./DP/0064-minimum-path-sum)
@@ -128,6 +111,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Maximum Product Subarray](./DP/0152-maximum-product-subarray)
 - [House Robber](./DP/0198-house-robber)
 - [House Robber Ii](./DP/0213-house-robber-ii)
+- [Partition Equal Subset Sum](./DP/0416-partition-equal-subset-sum)
 - [Valid Parenthesis String](./DP/0678-valid-parenthesis-string)
 - [Minimum Falling Path Sum](./DP/0931-minimum-falling-path-sum)
 - [Maximum Number Of Non Overlapping Palindrome Substrings](./DP/2472-maximum-number-of-non-overlapping-palindrome-substrings)
@@ -158,9 +142,14 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Circle And Rectangle Overlapping](./Math/1401-circle-and-rectangle-overlapping)
 - [Count Commas In Range Ii](./Math/3871-count-commas-in-range-ii)
 
+### Miscellaneous
+
+- [Create Grid With Exactly One Path](./Miscellaneous/3963-create-grid-with-exactly-one-path)
+
 ### Stack
 
 - [Valid Parentheses](./Stack/0020-valid-parentheses)
+- [Daily Temperatures](./Stack/0739-daily-temperatures)
 - [Score Of Parentheses](./Stack/0856-score-of-parentheses)
 - [Minimum Add To Make Parentheses Valid](./Stack/0921-minimum-add-to-make-parentheses-valid)
 - [Remove Outermost Parentheses](./Stack/1021-remove-outermost-parentheses)
