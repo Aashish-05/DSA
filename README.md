@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 80
+**Total Problems:** 81
 
 ## 📚 Topics
 
@@ -15,7 +15,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0198-house-robber](./0198-house-robber) | 1 |
-| [0767-reorganize-string](./0767-reorganize-string) | 1 |
+| [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
 | [Arrays](./Arrays) | 13 |
@@ -27,6 +27,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [LinkedList](./LinkedList) | 1 |
 | [Math](./Math) | 4 |
 | [Miscellaneous](./Miscellaneous) | 1 |
+| [Queue](./Queue) | 1 |
 | [Stack](./Stack) | 8 |
 | [Strings](./Strings) | 7 |
 | [Trees](./Trees) | 1 |
@@ -53,9 +54,9 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0198-house-robber](./0198-house-robber/0198-house-robber.cpp)
 
-### 0767-reorganize-string
+### 0462-minimum-moves-to-equal-array-elements-ii
 
-- [0767-reorganize-string](./0767-reorganize-string/0767-reorganize-string.cpp)
+- [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.cpp)
 
 ### 0856-score-of-parentheses
 
@@ -147,6 +148,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### Miscellaneous
 
 - [Create Grid With Exactly One Path](./Miscellaneous/3963-create-grid-with-exactly-one-path)
+
+### Queue
+
+- [Reorganize String](./Queue/0767-reorganize-string)
 
 ### Stack
 
