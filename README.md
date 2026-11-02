@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 81
+**Total Problems:** 82
 
 ## 📚 Topics
 
@@ -18,6 +18,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
+| [1143-longest-common-subsequence](./1143-longest-common-subsequence) | 1 |
 | [Arrays](./Arrays) | 13 |
 | [Backtracking](./Backtracking) | 8 |
 | [Binary Search](./Binary Search) | 3 |
@@ -65,6 +66,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 0931-minimum-falling-path-sum
 
 - [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum/0931-minimum-falling-path-sum.cpp)
+
+### 1143-longest-common-subsequence
+
+- [1143-longest-common-subsequence](./1143-longest-common-subsequence/1143-longest-common-subsequence.cpp)
 
 ### Arrays
 
