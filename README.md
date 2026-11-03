@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 82
+**Total Problems:** 83
 
 ## 📚 Topics
 
@@ -15,14 +15,13 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0011-container-with-most-water](./0011-container-with-most-water) | 1 |
 | [0152-maximum-product-subarray](./0152-maximum-product-subarray) | 1 |
 | [0198-house-robber](./0198-house-robber) | 1 |
-| [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii) | 1 |
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
-| [1143-longest-common-subsequence](./1143-longest-common-subsequence) | 1 |
-| [Arrays](./Arrays) | 13 |
+| [3736-minimum-moves-to-equal-array-elements-iii](./3736-minimum-moves-to-equal-array-elements-iii) | 1 |
+| [Arrays](./Arrays) | 14 |
 | [Backtracking](./Backtracking) | 8 |
 | [Binary Search](./Binary Search) | 3 |
-| [DP](./DP) | 23 |
+| [DP](./DP) | 24 |
 | [Graphs](./Graphs) | 2 |
 | [Greedy](./Greedy) | 1 |
 | [LinkedList](./LinkedList) | 1 |
@@ -55,10 +54,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0198-house-robber](./0198-house-robber/0198-house-robber.cpp)
 
-### 0462-minimum-moves-to-equal-array-elements-ii
-
-- [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.cpp)
-
 ### 0856-score-of-parentheses
 
 - [0856-score-of-parentheses](./0856-score-of-parentheses/0856-score-of-parentheses.cpp)
@@ -67,9 +62,9 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum/0931-minimum-falling-path-sum.cpp)
 
-### 1143-longest-common-subsequence
+### 3736-minimum-moves-to-equal-array-elements-iii
 
-- [1143-longest-common-subsequence](./1143-longest-common-subsequence/1143-longest-common-subsequence.cpp)
+- [3736-minimum-moves-to-equal-array-elements-iii](./3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp)
 
 ### Arrays
 
@@ -78,6 +73,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Next Permutation](./Arrays/0031-next-permutation)
 - [Valid Sudoku](./Arrays/0036-valid-sudoku)
 - [Set Matrix Zeroes](./Arrays/0073-set-matrix-zeroes)
+- [Minimum Moves To Equal Array Elements Ii](./Arrays/0462-minimum-moves-to-equal-array-elements-ii)
 - [Image Overlap](./Arrays/0835-image-overlap)
 - [Fruit Into Baskets](./Arrays/0904-fruit-into-baskets)
 - [Sum Of Squares Of Special Elements](./Arrays/2778-sum-of-squares-of-special-elements)
@@ -122,6 +118,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Coin Change Ii](./DP/0518-coin-change-ii)
 - [Valid Parenthesis String](./DP/0678-valid-parenthesis-string)
 - [Minimum Falling Path Sum](./DP/0931-minimum-falling-path-sum)
+- [Longest Common Subsequence](./DP/1143-longest-common-subsequence)
 - [Maximum Number Of Non Overlapping Palindrome Substrings](./DP/2472-maximum-number-of-non-overlapping-palindrome-substrings)
 - [1 01 Knapsack](./DP/1_01_Knapsack.cpp)
 - [2 01 knapsack Top Down](./DP/2_01_knapsack_Top_Down.cpp)
