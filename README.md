@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 85
+**Total Problems:** 86
 
 ## 📚 Topics
 
@@ -18,9 +18,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
 | [1143-longest-common-subsequence](./1143-longest-common-subsequence) | 1 |
-| [3364-minimum-positive-sum-subarray](./3364-minimum-positive-sum-subarray) | 1 |
-| [3736-minimum-moves-to-equal-array-elements-iii](./3736-minimum-moves-to-equal-array-elements-iii) | 1 |
-| [Arrays](./Arrays) | 14 |
+| [Arrays](./Arrays) | 16 |
 | [Backtracking](./Backtracking) | 8 |
 | [Binary Search](./Binary Search) | 3 |
 | [DP](./DP) | 24 |
@@ -31,7 +29,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [Miscellaneous](./Miscellaneous) | 1 |
 | [Queue](./Queue) | 1 |
 | [Stack](./Stack) | 8 |
-| [Strings](./Strings) | 7 |
+| [Strings](./Strings) | 8 |
 | [Trees](./Trees) | 1 |
 
 ## 📝 Problems
@@ -68,14 +66,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [1143-longest-common-subsequence](./1143-longest-common-subsequence/1143-longest-common-subsequence.cpp)
 
-### 3364-minimum-positive-sum-subarray
-
-- [3364-minimum-positive-sum-subarray](./3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp)
-
-### 3736-minimum-moves-to-equal-array-elements-iii
-
-- [3736-minimum-moves-to-equal-array-elements-iii](./3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp)
-
 ### Arrays
 
 - [Two Sum](./Arrays/0001-two-sum)
@@ -87,9 +77,11 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Image Overlap](./Arrays/0835-image-overlap)
 - [Fruit Into Baskets](./Arrays/0904-fruit-into-baskets)
 - [Sum Of Squares Of Special Elements](./Arrays/2778-sum-of-squares-of-special-elements)
+- [Minimum Positive Sum Subarray](./Arrays/3364-minimum-positive-sum-subarray)
 - [Unique 3 Digit Even Numbers](./Arrays/3483-unique-3-digit-even-numbers)
 - [Smallest Index With Digit Sum Equal To Index](./Arrays/3550-smallest-index-with-digit-sum-equal-to-index)
 - [Minimum Swaps To Sort By Digit Sum](./Arrays/3551-minimum-swaps-to-sort-by-digit-sum)
+- [Minimum Moves To Equal Array Elements Iii](./Arrays/3736-minimum-moves-to-equal-array-elements-iii)
 - [Maximum Valid Pair Sum](./Arrays/3979-maximum-valid-pair-sum)
 - [Count Values With Equally Spaced Occurrences Ii](./Arrays/4049-count-values-with-equally-spaced-occurrences-ii)
 
@@ -184,6 +176,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 - [Longest Repeating Character Replacement](./Strings/0424-longest-repeating-character-replacement)
 - [Find All Anagrams In A String](./Strings/0438-find-all-anagrams-in-a-string)
 - [Evaluate The Bracket Pairs Of A String](./Strings/1807-evaluate-the-bracket-pairs-of-a-string)
+- [Calculate Digit Sum Of A String](./Strings/2243-calculate-digit-sum-of-a-string)
 - [Reverse Degree Of A String](./Strings/3498-reverse-degree-of-a-string)
 
 ### Trees
