@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 86
+**Total Problems:** 87
 
 ## 📚 Topics
 
@@ -18,6 +18,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
 | [1143-longest-common-subsequence](./1143-longest-common-subsequence) | 1 |
+| [2124-check-if-all-as-appears-before-all-bs](./2124-check-if-all-as-appears-before-all-bs) | 1 |
 | [Arrays](./Arrays) | 16 |
 | [Backtracking](./Backtracking) | 8 |
 | [Binary Search](./Binary Search) | 3 |
@@ -65,6 +66,10 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 1143-longest-common-subsequence
 
 - [1143-longest-common-subsequence](./1143-longest-common-subsequence/1143-longest-common-subsequence.cpp)
+
+### 2124-check-if-all-as-appears-before-all-bs
+
+- [2124-check-if-all-as-appears-before-all-bs](./2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.cpp)
 
 ### Arrays
 
