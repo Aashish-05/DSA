@@ -4,7 +4,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 ## 📊 Progress
 
-**Total Problems:** 88
+**Total Problems:** 89
 
 ## 📚 Topics
 
@@ -19,7 +19,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [0856-score-of-parentheses](./0856-score-of-parentheses) | 1 |
 | [0931-minimum-falling-path-sum](./0931-minimum-falling-path-sum) | 1 |
 | [1143-longest-common-subsequence](./1143-longest-common-subsequence) | 1 |
-| [2124-check-if-all-as-appears-before-all-bs](./2124-check-if-all-as-appears-before-all-bs) | 1 |
 | [Arrays](./Arrays) | 16 |
 | [Backtracking](./Backtracking) | 8 |
 | [Binary Search](./Binary Search) | 3 |
@@ -31,7 +30,7 @@ A collection of Data Structures and Algorithms solutions in C++.
 | [Miscellaneous](./Miscellaneous) | 1 |
 | [Queue](./Queue) | 1 |
 | [Stack](./Stack) | 8 |
-| [Strings](./Strings) | 8 |
+| [Strings](./Strings) | 10 |
 | [Trees](./Trees) | 1 |
 
 ## 📝 Problems
@@ -71,10 +70,6 @@ A collection of Data Structures and Algorithms solutions in C++.
 ### 1143-longest-common-subsequence
 
 - [1143-longest-common-subsequence](./1143-longest-common-subsequence/1143-longest-common-subsequence.cpp)
-
-### 2124-check-if-all-as-appears-before-all-bs
-
-- [2124-check-if-all-as-appears-before-all-bs](./2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.cpp)
 
 ### Arrays
 
@@ -182,10 +177,12 @@ A collection of Data Structures and Algorithms solutions in C++.
 
 - [Longest Substring Without Repeating Characters](./Strings/0003-longest-substring-without-repeating-characters)
 - [String To Integer Atoi](./Strings/0008-string-to-integer-atoi)
+- [Integer To Roman](./Strings/0012-integer-to-roman)
 - [Minimum Window Substring](./Strings/0076-minimum-window-substring)
 - [Longest Repeating Character Replacement](./Strings/0424-longest-repeating-character-replacement)
 - [Find All Anagrams In A String](./Strings/0438-find-all-anagrams-in-a-string)
 - [Evaluate The Bracket Pairs Of A String](./Strings/1807-evaluate-the-bracket-pairs-of-a-string)
+- [Check If All As Appears Before All Bs](./Strings/2124-check-if-all-as-appears-before-all-bs)
 - [Calculate Digit Sum Of A String](./Strings/2243-calculate-digit-sum-of-a-string)
 - [Reverse Degree Of A String](./Strings/3498-reverse-degree-of-a-string)
 
